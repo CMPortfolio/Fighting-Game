@@ -20,8 +20,8 @@ A simple two-player fighting game built with JavaScript and HTML5 Canvas.
 - **Goal**: Deplete your opponent’s health to win.
 
 ## 🖼 Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
+![Screenshot ](screenshots4readme/img1.png)
+![Screenshot ](screenshots4readme/img2.png)
 
 
 ---
